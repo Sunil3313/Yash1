@@ -1,0 +1,242 @@
+[
+	{
+		"network": "American Express",
+		"credit_card_number": "377947104744146",
+		"cvv": "472",
+		"expiry_date": "7/2023",
+		"card_holder_name": "Hunter Collins",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947104744146"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947671141148",
+		"cvv": "472",
+		"expiry_date": "4/2022",
+		"card_holder_name": "Tyler Martin",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947671141148"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947478868190",
+		"cvv": "472",
+		"expiry_date": "6/2023",
+		"card_holder_name": "Julia Hernandez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947478868190"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947102439004",
+		"cvv": "472",
+		"expiry_date": "8/2021",
+		"card_holder_name": "Natalie Taylor",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947102439004"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947430635224",
+		"cvv": "472",
+		"expiry_date": "6/2024",
+		"card_holder_name": "Ashley Phillips",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947430635224"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947906855256",
+		"cvv": "472",
+		"expiry_date": "2/2023",
+		"card_holder_name": "Matthew Thomas",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947906855256"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947767627547",
+		"cvv": "472",
+		"expiry_date": "10/2025",
+		"card_holder_name": "James Lopez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947767627547"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947794620812",
+		"cvv": "472",
+		"expiry_date": "7/2023",
+		"card_holder_name": "Elijah Roberts",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947794620812"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947060259030",
+		"cvv": "472",
+		"expiry_date": "9/2025",
+		"card_holder_name": "Julia Clark",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947060259030"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947937163076",
+		"cvv": "472",
+		"expiry_date": "5/2022",
+		"card_holder_name": "Samantha Clark",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947937163076"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947868091890",
+		"cvv": "472",
+		"expiry_date": "6/2024",
+		"card_holder_name": "Daniel Jackson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947868091890"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947162396359",
+		"cvv": "472",
+		"expiry_date": "11/2023",
+		"card_holder_name": "Landon Anderson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947162396359"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947777582120",
+		"cvv": "472",
+		"expiry_date": "6/2024",
+		"card_holder_name": "Michael Wright",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947777582120"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947024378439",
+		"cvv": "472",
+		"expiry_date": "8/2023",
+		"card_holder_name": "Joshua Nelson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947024378439"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947341937867",
+		"cvv": "472",
+		"expiry_date": "3/2025",
+		"card_holder_name": "Michael Perez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947341937867"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947937156526",
+		"cvv": "472",
+		"expiry_date": "5/2025",
+		"card_holder_name": "Hunter Baker",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947937156526"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947680409551",
+		"cvv": "472",
+		"expiry_date": "6/2021",
+		"card_holder_name": "Elizabeth Baker",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947680409551"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947767564641",
+		"cvv": "472",
+		"expiry_date": "4/2024",
+		"card_holder_name": "Chloe Taylor",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947767564641"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947069755491",
+		"cvv": "472",
+		"expiry_date": "11/2024",
+		"card_holder_name": "Addison Wright",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947069755491"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947492580599",
+		"cvv": "472",
+		"expiry_date": "9/2025",
+		"card_holder_name": "Christopher Adams",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947492580599"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947803333522",
+		"cvv": "472",
+		"expiry_date": "5/2025",
+		"card_holder_name": "Olivia Moore",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947803333522"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947093876461",
+		"cvv": "472",
+		"expiry_date": "9/2022",
+		"card_holder_name": "Abigail White",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947093876461"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947669658798",
+		"cvv": "472",
+		"expiry_date": "5/2021",
+		"card_holder_name": "Hannah Brown",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947669658798"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947233520409",
+		"cvv": "472",
+		"expiry_date": "10/2025",
+		"card_holder_name": "Alyssa Hill",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947233520409"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947874568063",
+		"cvv": "472",
+		"expiry_date": "11/2025",
+		"card_holder_name": "Joseph Turner",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947874568063"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947586634609",
+		"cvv": "472",
+		"expiry_date": "4/2024",
+		"card_holder_name": "Joshua Lewis",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947586634609"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947661097029",
+		"cvv": "472",
+		"expiry_date": "10/2024",
+		"card_holder_name": "Chloe Evans",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947661097029"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947722134522",
+		"cvv": "472",
+		"expiry_date": "1/2024",
+		"card_holder_name": "James Robinson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947722134522"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947190394756",
+		"cvv": "472",
+		"expiry_date": "2/2024",
+		"card_holder_name": "Chloe Allen",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947190394756"
+	},
+	{
+		"network": "American Express",
+		"credit_card_number": "377947897583040",
+		"cvv": "472",
+		"expiry_date": "3/2022",
+		"card_holder_name": "Landon Roberts",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=377947897583040"
+	}
+]
